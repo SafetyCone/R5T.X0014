@@ -1,3 +1,6 @@
 R5T.X0014 - Indent extensions.
 
-GOALS:
+
+Allowed Dependencies:
+
+* R5T.X0005 - Extensions for Roslyn syntax functionality (non-generation).
